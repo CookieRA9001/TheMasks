@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDO/WtN7HNd4tlgRFFXvN7t9QgyMZaHQDtcEInvSU8W8WjHRB2kb7tKqnlcFRBDH4m8tX1uqo2y0xyjg1jbW4g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\BlueDragonPC\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\TheMasks\\TheMasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueDragonPC\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
