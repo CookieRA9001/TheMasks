@@ -1,4 +1,4 @@
 displayName = The Masks
 author = CookieRA
-version = 1.0.1.
+version = 1.0.2.
 homepage = https://twitter.com/CRAdevlog
